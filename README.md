@@ -10,6 +10,6 @@
 
 
 # Task Lists
-- [ ] Upload Current Working File - 26.09.2017 06:44 PM
+- [x] Upload Current Working File - 26.09.2017 06:44 PM
 - [ ] Validated Shunt Yard Algorithm
 
