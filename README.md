@@ -7,3 +7,9 @@
   - n- sized array for symbols and n+1 sized array for numbers. 
   - The numbers are initialized as double for ease of operation.
 - Since the initial user algorithm failed, Shunting Yard algorithm is being developed to perform calculation. 
+
+
+# Task Lists
+- [ ] Upload Current Working File - 26.09.2017 06:44 PM
+- [ ] Validated Shunt Yard Algorithm
+
